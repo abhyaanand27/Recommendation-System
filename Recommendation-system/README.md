@@ -1,9 +1,3 @@
-ℹ️ Due to billing issues, the website is currently hosted on AWS free tier EC2 istance, and is live at : [http://3.110.249.152:3000](http://3.110.249.152:3000)
-
-# Architecture
-
-![architecture](./engage-architecture.png)
-
 # Code Structure
 
 ```console
